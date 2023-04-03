@@ -3,8 +3,8 @@ let link1, link2, link3;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   link1 = createA('project-4-1.html', 'Project 4.1: Still Life','_blank');
-  link2 = createA('project-4-2.html', 'Project 4.2: ','_blank');
-  link3 = createA('project-4-3.html', 'Project 4.3: ','_blank');
+  link2 = createA('project-4-2.html', 'Project 4.2: Face Generator','_blank');
+  link3 = createA('project-4-3.html', 'Project 4.3: Yearbook','_blank');
   link1.position(300,200);
   link2.position(340,300);
   link3.position(440,500);
